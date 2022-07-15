@@ -2,7 +2,9 @@
 
 
 Hi 👋, I'm Kübra
+
 Fullstack Developer
+
 🔭 I’m currently working on ReactJS, NextJS for frontend development
 
 🌱 I’m always learning about JavaScript.. God Damn!
