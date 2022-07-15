@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**kubraduvan/kubraduvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Kübra
+Fullstack Developer
+🔭 I’m currently working on ReactJS, NextJS for frontend development
+
+🌱 I’m always learning about JavaScript.. God Damn!
+
+🔭 I’m currently working on .NET and .NET Core with C# for backend development
+
+👨‍💻 All of my projects are available at https://github.com/kubraduvan
+
+💬 Ask me about Html,Css,Javascript and React
+
+📫 How to reach me hkubraduvan@gmail.com
